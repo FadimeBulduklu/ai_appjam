@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377919726534",
+    "project_id": "app-jam-c506a",
+    "storage_bucket": "app-jam-c506a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377919726534:android:edc9eff038c958743308c7",
+        "android_client_info": {
+          "package_name": "com.example.appjam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlR2NHX0FPj6nLPblhmPZSIdpo9DQXwTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
